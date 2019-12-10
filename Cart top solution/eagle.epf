@@ -348,18 +348,13 @@ UsedLibraryUrn="urn:adsk.eagle:library:174"
 UsedLibraryUrn="urn:adsk.eagle:library:175"
 UsedLibraryUrn="urn:adsk.eagle:library:176"
 UsedLibraryUrn="urn:adsk.eagle:library:177"
-UsedLibrary="C:/Users/User/Documents/EAGLE/libraries/GHIdiy-modules.lbr"
-UsedLibrary="C:/Users/User/Documents/EAGLE/libraries/SparkFun-Connectors.lbr"
-UsedLibrary="C:/Users/User/Documents/EAGLE/libraries/Termnal block.lbr"
-UsedLibrary="C:/Users/User/Documents/EAGLE/libraries/dc-dc-converter.lbr"
-UsedLibrary="C:/EAGLE 9.1.2/lbr/SparkFun-IC-Special-Function.lbr"
-UsedLibrary="C:/EAGLE 9.1.2/lbr/adafruit.lbr"
-UsedLibrary="C:/Users/User/Documents/Relay module libraries/SRD-Relay.lbr"
+UsedLibrary="C:/Users/Mwabai/Documents/EAGLE/libraries/GHII MCP 3002.lbr"
+UsedLibrary="C:/Users/Mwabai/Documents/EAGLE/SOP254P1132X265-8N.lbr"
 
 [Win_1]
 Type="Control Panel"
 Number=0
 
 [Desktop]
-Screen="1366 768"
+Screen="1920 1080"
 Window="Win_1"
