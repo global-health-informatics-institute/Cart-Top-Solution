@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+
+ #!/usr/bin/env python
 
 import RPi.GPIO as GPIO
 from adc import ADC
